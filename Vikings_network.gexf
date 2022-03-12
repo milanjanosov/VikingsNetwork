@@ -1,0 +1,1337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2022-03-12">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Aethelwulf" label="Aethelwulf" />
+      <node id="Harald" label="Harald" />
+      <node id="Aldulf" label="Aldulf" />
+      <node id="Alfred" label="Alfred" />
+      <node id="Astrid" label="Astrid" />
+      <node id="Bjorn" label="Bjorn" />
+      <node id="Canute" label="Canute" />
+      <node id="Crowbone" label="Crowbone" />
+      <node id="Egil" label="Egil" />
+      <node id="Ellisif" label="Ellisif" />
+      <node id="Elsewith" label="Elsewith" />
+      <node id="Erik" label="Erik" />
+      <node id="Gunnhild" label="Gunnhild" />
+      <node id="Halfdan" label="Halfdan" />
+      <node id="Hvitserk" label="Hvitserk" />
+      <node id="Igor" label="Igor" />
+      <node id="Ingrid" label="Ingrid" />
+      <node id="Ivar" label="Ivar" />
+      <node id="Kjetill" label="Kjetill" />
+      <node id="Lagertha" label="Lagertha" />
+      <node id="Magnus" label="Magnus" />
+      <node id="Margrethe" label="Margrethe" />
+      <node id="Odin" label="Odin" />
+      <node id="Olaf" label="Olaf" />
+      <node id="Olavsonn" label="Olavsonn" />
+      <node id="Oleg" label="Oleg" />
+      <node id="Ragnar" label="Ragnar" />
+      <node id="Rollo" label="Rollo" />
+      <node id="Svein" label="Svein" />
+      <node id="Thorkell" label="Thorkell" />
+      <node id="Ubbe" label="Ubbe" />
+      <node id="Athelstan" label="Athelstan" />
+      <node id="Swithun" label="Swithun" />
+      <node id="Horik" label="Horik" />
+      <node id="Hakon" label="Hakon" />
+      <node id="Asa" label="Asa" />
+      <node id="Aslaug" label="Aslaug" />
+      <node id="Borg" label="Borg" />
+      <node id="Celsa" label="Celsa" />
+      <node id="Eric Trygvasson" label="Eric Trygvasson" />
+      <node id="Erlendur" label="Erlendur" />
+      <node id="Euphemius" label="Euphemius" />
+      <node id="Floki" label="Floki" />
+      <node id="Freydis" label="Freydis" />
+      <node id="Ganbaatar" label="Ganbaatar" />
+      <node id="Gisla" label="Gisla" />
+      <node id="Guthrum" label="Guthrum" />
+      <node id="Gyda" label="Gyda" />
+      <node id="Hali" label="Hali" />
+      <node id="Haraldson" label="Haraldson" />
+      <node id="Kassia" label="Kassia" />
+      <node id="Marcellus" label="Marcellus" />
+      <node id="Ragnar Ubbesson" label="Ragnar Ubbesson" />
+      <node id="Siggy" label="Siggy" />
+      <node id="Siggy Bjornsdottir" label="Siggy Bjornsdottir" />
+      <node id="Sigurd" label="Sigurd" />
+      <node id="Sigvard" label="Sigvard" />
+      <node id="Sinric" label="Sinric" />
+      <node id="Snæfrid" label="Snæfrid" />
+      <node id="Svase" label="Svase" />
+      <node id="The Berserker" label="The Berserker" />
+      <node id="The Seer" label="The Seer" />
+      <node id="Þorunn" label="Þorunn" />
+      <node id="Torstein" label="Torstein" />
+      <node id="Torvi" label="Torvi" />
+      <node id="White Hair" label="White Hair" />
+      <node id="William" label="William" />
+      <node id="Ziyadat Allah" label="Ziyadat Allah" />
+      <node id="Aethelred &quot;the Unready&quot;" label="Aethelred &quot;the Unready&quot;" />
+      <node id="Edmund (Valhalla)" label="Edmund (Valhalla)" />
+      <node id="Emma of Normandy" label="Emma of Normandy" />
+      <node id="Ælle" label="Ælle" />
+      <node id="Æthelwulf of Northumbria" label="Æthelwulf of Northumbria" />
+      <node id="Burgred" label="Burgred" />
+      <node id="Ecbert" label="Ecbert" />
+      <node id="Judith" label="Judith" />
+      <node id="Kwenthrith" label="Kwenthrith" />
+      <node id="Unwan" label="Unwan" />
+      <node id="Wigea" label="Wigea" />
+      <node id="Orlyg" label="Orlyg" />
+      <node id="Skadi" label="Skadi" />
+      <node id="Helga" label="Helga" />
+      <node id="Kåre" label="Kåre" />
+      <node id="Freydis Eriksdotter" label="Freydis Eriksdotter" />
+      <node id="Kåre" label="Kåre" />
+      <node id="Liv" label="Liv" />
+      <node id="Leif" label="Leif" />
+      <node id="Leif Eriksson" label="Leif Eriksson" />
+      <node id="Egil's Wife" label="Egil's Wife" />
+      <node id="Angrboda" label="Angrboda" />
+      <node id="Amma" label="Amma" />
+      <node id="Harbard" label="Harbard" />
+      <node id="Heahmund" label="Heahmund" />
+      <node id="Idun" label="Idun" />
+      <node id="Thora" label="Thora" />
+      <node id="Ælfgifu" label="Ælfgifu" />
+      <node id="Canute (Valhalla)" label="Canute (Valhalla)" />
+      <node id="Hrolf" label="Hrolf" />
+      <node id="Estrid Haakon" label="Estrid Haakon" />
+      <node id="Toke" label="Toke" />
+      <node id="Eadric Streona" label="Eadric Streona" />
+      <node id="Hallbjorn" label="Hallbjorn" />
+      <node id="Olaf Haraldsson" label="Olaf Haraldsson" />
+      <node id="Sweyn Forkbeard" label="Sweyn Forkbeard" />
+      <node id="Therese" label="Therese" />
+      <node id="Odo" label="Odo" />
+      <node id="Roland" label="Roland" />
+      <node id="Adam" label="Adam" />
+      <node id="Asbjorn" label="Asbjorn" />
+      <node id="Aud" label="Aud" />
+      <node id="Bul" label="Bul" />
+      <node id="Eyvind" label="Eyvind" />
+      <node id="Frodi" label="Frodi" />
+      <node id="Helgi" label="Helgi" />
+      <node id="Ingvild" label="Ingvild" />
+      <node id="Jorunn" label="Jorunn" />
+      <node id="Rafarta" label="Rafarta" />
+      <node id="Thorgrim" label="Thorgrim" />
+      <node id="Thorunn Kjetillsdottir" label="Thorunn Kjetillsdottir" />
+      <node id="Hild" label="Hild" />
+      <node id="Birger" label="Birger" />
+      <node id="Gorm" label="Gorm" />
+      <node id="Angel of Death" label="Angel of Death" />
+      <node id="Gyda (Shieldmaiden)" label="Gyda (Shieldmaiden)" />
+      <node id="Cuthbert" label="Cuthbert" />
+      <node id="Thyri" label="Thyri" />
+      <node id="Hakon (Ship Captain)" label="Hakon (Ship Captain)" />
+      <node id="Aethelred" label="Aethelred" />
+      <node id="Cyneheard" label="Cyneheard" />
+      <node id="Ealhswith" label="Ealhswith" />
+      <node id="Ecgberht" label="Ecgberht" />
+      <node id="Leo IV" label="Leo IV" />
+      <node id="Mannel" label="Mannel" />
+      <node id="Prudentius" label="Prudentius" />
+      <node id="Wilfred" label="Wilfred" />
+      <node id="Othere" label="Othere" />
+      <node id="Askold" label="Askold" />
+      <node id="Dir" label="Dir" />
+      <node id="Baldur Ivarsson" label="Baldur Ivarsson" />
+      <node id="Jorgensen" label="Jorgensen" />
+      <node id="Katia" label="Katia" />
+      <node id="Arne" label="Arne" />
+      <node id="Arne Gormsson" label="Arne Gormsson" />
+      <node id="Hakon (Ragnar's Crew)" label="Hakon (Ragnar's Crew)" />
+      <node id="Gudrid" label="Gudrid" />
+      <node id="Naad" label="Naad" />
+      <node id="We'jitu" label="We'jitu" />
+      <node id="Hoskuld" label="Hoskuld" />
+      <node id="Angantyr" label="Angantyr" />
+      <node id="Frodo" label="Frodo" />
+      <node id="Hemming" label="Hemming" />
+      <node id="Wigstan" label="Wigstan" />
+      <node id="Wiglaf" label="Wiglaf" />
+      <node id="Edgar" label="Edgar" />
+      <node id="Njal" label="Njal" />
+      <node id="Tanaruz" label="Tanaruz" />
+      <node id="Nissa" label="Nissa" />
+      <node id="Stender" label="Stender" />
+      <node id="Vigrid" label="Vigrid" />
+      <node id="Harald Sigurdsson" label="Harald Sigurdsson" />
+      <node id="Herigar" label="Herigar" />
+      <node id="Nikani" label="Nikani" />
+      <node id="Pekitaulet" label="Pekitaulet" />
+      <node id="Peminuit" label="Peminuit" />
+      <node id="Bjarni" label="Bjarni" />
+      <node id="Skane" label="Skane" />
+      <node id="Yidu" label="Yidu" />
+      <node id="Charles" label="Charles" />
+      <node id="Kalf" label="Kalf" />
+      <node id="Tostig" label="Tostig" />
+      <node id="Ansgar" label="Ansgar" />
+      <node id="Ulf" label="Ulf" />
+      <node id="Thorvard" label="Thorvard" />
+      <node id="Sigeferth" label="Sigeferth" />
+      <node id="Denewulf" label="Denewulf" />
+      <node id="Gytha" label="Gytha" />
+      <node id="Eirik" label="Eirik" />
+      <node id="Einar" label="Einar" />
+      <node id="Godwin" label="Godwin" />
+      <node id="Vik" label="Vik" />
+      <node id="Siegfried" label="Siegfried" />
+      <node id="Leof" label="Leof" />
+      <node id="Wærferth" label="Wærferth" />
+      <node id="Annis" label="Annis" />
+      <node id="Ethelfled" label="Ethelfled" />
+      <node id="Johan" label="Johan" />
+      <node id="Erik Marteinn" label="Erik Marteinn" />
+      <node id="Knut Tjodolf" label="Knut Tjodolf" />
+      <node id="Yrsa" label="Yrsa" />
+      <node id="Richard of Normandy" label="Richard of Normandy" />
+      <node id="Saxon Bishop" label="Saxon Bishop" />
+      <node id="Osric" label="Osric" />
+      <node id="Edmund" label="Edmund" />
+      <node id="Eadric" label="Eadric" />
+      <node id="Nils" label="Nils" />
+      <node id="Sten Sigurdsson" label="Sten Sigurdsson" />
+      <node id="Galan" label="Galan" />
+      <node id="Elisef" label="Elisef" />
+      <node id="Kauko" label="Kauko" />
+      <node id="Gunnhild (Wife of Horik)" label="Gunnhild (Wife of Horik)" />
+      <node id="Anna" label="Anna" />
+      <node id="Lupus" label="Lupus" />
+      <node id="Rangvald" label="Rangvald" />
+      <node id="Gunnar Magnússon" label="Gunnar Magnússon" />
+      <node id="Aldwin" label="Aldwin" />
+      <node id="Ari" label="Ari" />
+      <node id="Olafur" label="Olafur" />
+      <node id="Cynebert" label="Cynebert" />
+      <node id="Thorhall" label="Thorhall" />
+      <node id="Olaf (Rus')" label="Olaf (Rus')" />
+      <node id="Nori" label="Nori" />
+      <node id="Werferth" label="Werferth" />
+      <node id="Gundmund" label="Gundmund" />
+      <node id="Tarben" label="Tarben" />
+      <node id="Priest of Uppsala" label="Priest of Uppsala" />
+      <node id="Natasha" label="Natasha" />
+      <node id="Wulfgar" label="Wulfgar" />
+      <node id="Æthelgyth" label="Æthelgyth" />
+      <node id="Cuthred" label="Cuthred" />
+      <node id="Gunnar Magnússon" label="Gunnar Magnússon" />
+      <node id="Saxon Sheriff" label="Saxon Sheriff" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Aethelwulf" target="Harald" weight="2" />
+      <edge id="1" source="Aethelwulf" target="Ælle" weight="2" />
+      <edge id="2" source="Aethelwulf" target="Halfdan" weight="1" />
+      <edge id="3" source="Aethelwulf" target="Hvitserk" weight="4" />
+      <edge id="4" source="Aethelwulf" target="Sigurd" weight="1" />
+      <edge id="5" source="Aethelwulf" target="Alfred" weight="8" />
+      <edge id="6" source="Aethelwulf" target="Ivar" weight="4" />
+      <edge id="7" source="Aethelwulf" target="Ubbe" weight="4" />
+      <edge id="8" source="Aethelwulf" target="Floki" weight="4" />
+      <edge id="9" source="Aethelwulf" target="Stender" weight="1" />
+      <edge id="10" source="Aethelwulf" target="Mannel" weight="2" />
+      <edge id="11" source="Aethelwulf" target="Denewulf" weight="1" />
+      <edge id="12" source="Aethelwulf" target="Wærferth" weight="1" />
+      <edge id="13" source="Aethelwulf" target="Aethelred" weight="3" />
+      <edge id="14" source="Aethelwulf" target="Ragnar" weight="2" />
+      <edge id="15" source="Aethelwulf" target="Burgred" weight="2" />
+      <edge id="16" source="Aethelwulf" target="Edmund" weight="1" />
+      <edge id="17" source="Aethelwulf" target="Elsewith" weight="2" />
+      <edge id="18" source="Aethelwulf" target="Horik" weight="1" />
+      <edge id="19" source="Aethelwulf" target="Leo IV" weight="2" />
+      <edge id="20" source="Aethelwulf" target="Kwenthrith" weight="3" />
+      <edge id="21" source="Aethelwulf" target="Magnus" weight="2" />
+      <edge id="22" source="Aethelwulf" target="Unwan" weight="1" />
+      <edge id="23" source="Aethelwulf" target="Æthelwulf of Northumbria" weight="4" />
+      <edge id="24" source="Aethelwulf" target="Athelstan" weight="1" />
+      <edge id="25" source="Aethelwulf" target="Ealhswith" weight="1" />
+      <edge id="26" source="Aethelwulf" target="Ecbert" weight="3" />
+      <edge id="27" source="Aethelwulf" target="Ecgberht" weight="1" />
+      <edge id="28" source="Aethelwulf" target="Erlendur" weight="2" />
+      <edge id="29" source="Aethelwulf" target="Heahmund" weight="2" />
+      <edge id="30" source="Aethelwulf" target="Judith" weight="5" />
+      <edge id="31" source="Aethelwulf" target="Rollo" weight="2" />
+      <edge id="32" source="Aethelwulf" target="Prudentius" weight="1" />
+      <edge id="33" source="Harald" target="Aldulf" weight="12" />
+      <edge id="34" source="Harald" target="Alfred" weight="8" />
+      <edge id="35" source="Harald" target="Astrid" weight="4" />
+      <edge id="36" source="Harald" target="Bjorn" weight="12" />
+      <edge id="37" source="Harald" target="Canute" weight="2" />
+      <edge id="38" source="Harald" target="Crowbone" weight="4" />
+      <edge id="39" source="Harald" target="Egil" weight="4" />
+      <edge id="40" source="Harald" target="Ellisif" weight="4" />
+      <edge id="41" source="Harald" target="Elsewith" weight="4" />
+      <edge id="42" source="Harald" target="Erik" weight="8" />
+      <edge id="43" source="Harald" target="Gunnhild" weight="8" />
+      <edge id="44" source="Harald" target="Halfdan" weight="10" />
+      <edge id="45" source="Harald" target="Hvitserk" weight="12" />
+      <edge id="46" source="Harald" target="Igor" weight="4" />
+      <edge id="47" source="Harald" target="Ingrid" weight="18" />
+      <edge id="48" source="Harald" target="Ivar" weight="8" />
+      <edge id="49" source="Harald" target="Kjetill" weight="4" />
+      <edge id="50" source="Harald" target="Lagertha" weight="5" />
+      <edge id="51" source="Harald" target="Magnus" weight="4" />
+      <edge id="52" source="Harald" target="Margrethe" weight="2" />
+      <edge id="53" source="Harald" target="Odin" weight="4" />
+      <edge id="54" source="Harald" target="Olaf" weight="10" />
+      <edge id="55" source="Harald" target="Olavsonn" weight="4" />
+      <edge id="56" source="Harald" target="Oleg" weight="4" />
+      <edge id="57" source="Harald" target="Ragnar" weight="4" />
+      <edge id="58" source="Harald" target="Rollo" weight="4" />
+      <edge id="59" source="Harald" target="Svein" weight="4" />
+      <edge id="60" source="Harald" target="Thorkell" weight="2" />
+      <edge id="61" source="Harald" target="Ubbe" weight="12" />
+      <edge id="62" source="Harald" target="Hrolf" weight="2" />
+      <edge id="63" source="Harald" target="Athelstan" weight="2" />
+      <edge id="64" source="Harald" target="Rafarta" weight="2" />
+      <edge id="65" source="Harald" target="Floki" weight="4" />
+      <edge id="66" source="Harald" target="Freydis Eriksdotter" weight="4" />
+      <edge id="67" source="Harald" target="Herigar" weight="2" />
+      <edge id="68" source="Harald" target="Skane" weight="8" />
+      <edge id="69" source="Harald" target="Tostig" weight="2" />
+      <edge id="70" source="Harald" target="Ulf" weight="2" />
+      <edge id="71" source="Harald" target="White Hair" weight="2" />
+      <edge id="72" source="Harald" target="Aslaug" weight="2" />
+      <edge id="73" source="Harald" target="Hakon" weight="2" />
+      <edge id="74" source="Harald" target="The Seer" weight="4" />
+      <edge id="75" source="Harald" target="Freydis" weight="2" />
+      <edge id="76" source="Harald" target="Olaf Haraldsson" weight="10" />
+      <edge id="77" source="Harald" target="Erik Marteinn" weight="2" />
+      <edge id="78" source="Harald" target="Torstein" weight="2" />
+      <edge id="79" source="Harald" target="Eric Trygvasson" weight="2" />
+      <edge id="80" source="Harald" target="Arne" weight="2" />
+      <edge id="81" source="Harald" target="Amma" weight="8" />
+      <edge id="82" source="Harald" target="Rangvald" weight="2" />
+      <edge id="83" source="Harald" target="Olafur" weight="2" />
+      <edge id="84" source="Harald" target="Sten Sigurdsson" weight="12" />
+      <edge id="85" source="Harald" target="Harald Sigurdsson" weight="24" />
+      <edge id="86" source="Harald" target="Guthrum" weight="2" />
+      <edge id="87" source="Harald" target="Priest of Uppsala" weight="2" />
+      <edge id="88" source="Harald" target="Svase" weight="2" />
+      <edge id="89" source="Harald" target="Erlendur" weight="2" />
+      <edge id="90" source="Harald" target="Tanaruz" weight="2" />
+      <edge id="91" source="Harald" target="Knut Tjodolf" weight="2" />
+      <edge id="92" source="Harald" target="Siggy" weight="4" />
+      <edge id="93" source="Harald" target="Heahmund" weight="2" />
+      <edge id="94" source="Harald" target="Torvi" weight="4" />
+      <edge id="95" source="Harald" target="Snæfrid" weight="2" />
+      <edge id="96" source="Aldulf" target="Halfdan" weight="2" />
+      <edge id="97" source="Aldulf" target="Alfred" weight="8" />
+      <edge id="98" source="Aldulf" target="Osric" weight="8" />
+      <edge id="99" source="Alfred" target="Hvitserk" weight="8" />
+      <edge id="100" source="Alfred" target="Athelstan" weight="6" />
+      <edge id="101" source="Alfred" target="Ælle" weight="2" />
+      <edge id="102" source="Alfred" target="Aethelred" weight="8" />
+      <edge id="103" source="Alfred" target="Æthelwulf of Northumbria" weight="2" />
+      <edge id="104" source="Alfred" target="Bjorn" weight="4" />
+      <edge id="105" source="Alfred" target="Cyneheard" weight="4" />
+      <edge id="106" source="Alfred" target="Ealhswith" weight="2" />
+      <edge id="107" source="Alfred" target="Ecbert" weight="4" />
+      <edge id="108" source="Alfred" target="Ecgberht" weight="2" />
+      <edge id="109" source="Alfred" target="Elsewith" weight="20" />
+      <edge id="110" source="Alfred" target="Heahmund" weight="4" />
+      <edge id="111" source="Alfred" target="Ivar" weight="4" />
+      <edge id="112" source="Alfred" target="Judith" weight="8" />
+      <edge id="113" source="Alfred" target="Lagertha" weight="2" />
+      <edge id="114" source="Alfred" target="Leo IV" weight="4" />
+      <edge id="115" source="Alfred" target="Mannel" weight="4" />
+      <edge id="116" source="Alfred" target="Prudentius" weight="4" />
+      <edge id="117" source="Alfred" target="Ragnar" weight="4" />
+      <edge id="118" source="Alfred" target="Torvi" weight="12" />
+      <edge id="119" source="Alfred" target="Ubbe" weight="12" />
+      <edge id="120" source="Alfred" target="Wilfred" weight="2" />
+      <edge id="121" source="Alfred" target="Wiglaf" weight="4" />
+      <edge id="122" source="Alfred" target="Gunnhild" weight="4" />
+      <edge id="123" source="Alfred" target="Leof" weight="6" />
+      <edge id="124" source="Alfred" target="Saxon Bishop" weight="2" />
+      <edge id="125" source="Alfred" target="Edmund" weight="2" />
+      <edge id="126" source="Alfred" target="Galan" weight="6" />
+      <edge id="127" source="Alfred" target="Adam" weight="2" />
+      <edge id="128" source="Alfred" target="Magnus" weight="2" />
+      <edge id="129" source="Alfred" target="Wulfgar" weight="4" />
+      <edge id="130" source="Astrid" target="Bjorn" weight="4" />
+      <edge id="131" source="Astrid" target="Hvitserk" weight="2" />
+      <edge id="132" source="Astrid" target="Egil" weight="2" />
+      <edge id="133" source="Astrid" target="Hakon (Ship Captain)" weight="1" />
+      <edge id="134" source="Astrid" target="Ubbe" weight="4" />
+      <edge id="135" source="Astrid" target="Gunnhild" weight="2" />
+      <edge id="136" source="Astrid" target="Aslaug" weight="2" />
+      <edge id="137" source="Astrid" target="Margrethe" weight="1" />
+      <edge id="138" source="Astrid" target="Torvi" weight="4" />
+      <edge id="139" source="Astrid" target="Lagertha" weight="1" />
+      <edge id="140" source="Astrid" target="Ragnar" weight="1" />
+      <edge id="141" source="Astrid" target="Rollo" weight="1" />
+      <edge id="142" source="Astrid" target="Sigurd" weight="1" />
+      <edge id="143" source="Bjorn" target="Ingrid" weight="18" />
+      <edge id="144" source="Bjorn" target="Asa" weight="16" />
+      <edge id="145" source="Bjorn" target="Aslaug" weight="6" />
+      <edge id="146" source="Bjorn" target="Athelstan" weight="4" />
+      <edge id="147" source="Bjorn" target="Borg" weight="4" />
+      <edge id="148" source="Bjorn" target="Celsa" weight="6" />
+      <edge id="149" source="Bjorn" target="Elsewith" weight="16" />
+      <edge id="150" source="Bjorn" target="Eric Trygvasson" weight="2" />
+      <edge id="151" source="Bjorn" target="Erik" weight="8" />
+      <edge id="152" source="Bjorn" target="Erlendur" weight="2" />
+      <edge id="153" source="Bjorn" target="Euphemius" weight="2" />
+      <edge id="154" source="Bjorn" target="Floki" weight="14" />
+      <edge id="155" source="Bjorn" target="Freydis" weight="2" />
+      <edge id="156" source="Bjorn" target="Ganbaatar" weight="12" />
+      <edge id="157" source="Bjorn" target="Gisla" weight="4" />
+      <edge id="158" source="Bjorn" target="Gunnhild" weight="16" />
+      <edge id="159" source="Bjorn" target="Guthrum" weight="4" />
+      <edge id="160" source="Bjorn" target="Gyda" weight="6" />
+      <edge id="161" source="Bjorn" target="Halfdan" weight="6" />
+      <edge id="162" source="Bjorn" target="Hali" weight="4" />
+      <edge id="163" source="Bjorn" target="Haraldson" weight="4" />
+      <edge id="164" source="Bjorn" target="Horik" weight="2" />
+      <edge id="165" source="Bjorn" target="Hvitserk" weight="16" />
+      <edge id="166" source="Bjorn" target="Ivar" weight="20" />
+      <edge id="167" source="Bjorn" target="Kassia" weight="2" />
+      <edge id="168" source="Bjorn" target="Kjetill" weight="4" />
+      <edge id="169" source="Bjorn" target="Lagertha" weight="8" />
+      <edge id="170" source="Bjorn" target="Marcellus" weight="6" />
+      <edge id="171" source="Bjorn" target="Odin" weight="4" />
+      <edge id="172" source="Bjorn" target="Olaf" weight="10" />
+      <edge id="173" source="Bjorn" target="Oleg" weight="8" />
+      <edge id="174" source="Bjorn" target="Ragnar" weight="8" />
+      <edge id="175" source="Bjorn" target="Ragnar Ubbesson" weight="2" />
+      <edge id="176" source="Bjorn" target="Rollo" weight="8" />
+      <edge id="177" source="Bjorn" target="Siggy" weight="8" />
+      <edge id="178" source="Bjorn" target="Siggy Bjornsdottir" weight="6" />
+      <edge id="179" source="Bjorn" target="Sigurd" weight="6" />
+      <edge id="180" source="Bjorn" target="Sigvard" weight="4" />
+      <edge id="181" source="Bjorn" target="Sinric" weight="4" />
+      <edge id="182" source="Bjorn" target="Snæfrid" weight="6" />
+      <edge id="183" source="Bjorn" target="Svase" weight="4" />
+      <edge id="184" source="Bjorn" target="The Berserker" weight="4" />
+      <edge id="185" source="Bjorn" target="The Seer" weight="12" />
+      <edge id="186" source="Bjorn" target="Þorunn" weight="6" />
+      <edge id="187" source="Bjorn" target="Torstein" weight="2" />
+      <edge id="188" source="Bjorn" target="Torvi" weight="36" />
+      <edge id="189" source="Bjorn" target="Ubbe" weight="8" />
+      <edge id="190" source="Bjorn" target="White Hair" weight="4" />
+      <edge id="191" source="Bjorn" target="William" weight="6" />
+      <edge id="192" source="Bjorn" target="Ziyadat Allah" weight="4" />
+      <edge id="193" source="Bjorn" target="Ælle" weight="2" />
+      <edge id="194" source="Bjorn" target="Hrolf" weight="2" />
+      <edge id="195" source="Bjorn" target="Egil" weight="2" />
+      <edge id="196" source="Bjorn" target="Askold" weight="2" />
+      <edge id="197" source="Bjorn" target="Vigrid" weight="2" />
+      <edge id="198" source="Bjorn" target="Helga" weight="2" />
+      <edge id="199" source="Bjorn" target="Thorvard" weight="2" />
+      <edge id="200" source="Bjorn" target="Hakon" weight="2" />
+      <edge id="201" source="Bjorn" target="Amma" weight="8" />
+      <edge id="202" source="Bjorn" target="Unwan" weight="2" />
+      <edge id="203" source="Bjorn" target="Priest of Uppsala" weight="2" />
+      <edge id="204" source="Bjorn" target="Ari" weight="2" />
+      <edge id="205" source="Bjorn" target="Tanaruz" weight="2" />
+      <edge id="206" source="Bjorn" target="Thorhall" weight="2" />
+      <edge id="207" source="Bjorn" target="Kalf" weight="2" />
+      <edge id="208" source="Bjorn" target="Dir" weight="2" />
+      <edge id="209" source="Bjorn" target="Heahmund" weight="2" />
+      <edge id="210" source="Bjorn" target="Ecbert" weight="2" />
+      <edge id="211" source="Canute" target="Ælfgifu" weight="4" />
+      <edge id="212" source="Canute" target="Eadric Streona" weight="2" />
+      <edge id="213" source="Canute" target="Canute (Valhalla)" weight="8" />
+      <edge id="214" source="Canute" target="Olaf" weight="4" />
+      <edge id="215" source="Canute" target="Gorm" weight="2" />
+      <edge id="216" source="Canute" target="Estrid Haakon" weight="2" />
+      <edge id="217" source="Canute" target="Hvitserk" weight="2" />
+      <edge id="218" source="Canute" target="Ivar" weight="2" />
+      <edge id="219" source="Canute" target="Nori" weight="2" />
+      <edge id="220" source="Canute" target="Emma of Normandy" weight="3" />
+      <edge id="221" source="Canute" target="Sweyn Forkbeard" weight="4" />
+      <edge id="222" source="Canute" target="Olaf Haraldsson" weight="1" />
+      <edge id="223" source="Crowbone" target="Olavsonn" weight="1" />
+      <edge id="224" source="Egil" target="Halfdan" weight="4" />
+      <edge id="225" source="Egil" target="Egil's Wife" weight="2" />
+      <edge id="226" source="Egil" target="Lagertha" weight="2" />
+      <edge id="227" source="Egil" target="Torvi" weight="4" />
+      <edge id="228" source="Ellisif" target="Halfdan" weight="2" />
+      <edge id="229" source="Ellisif" target="Aslaug" weight="1" />
+      <edge id="230" source="Ellisif" target="Lagertha" weight="1" />
+      <edge id="231" source="Ellisif" target="Ragnar" weight="1" />
+      <edge id="232" source="Ellisif" target="Vik" weight="1" />
+      <edge id="233" source="Elsewith" target="Wilfred" weight="4" />
+      <edge id="234" source="Elsewith" target="Annis" weight="8" />
+      <edge id="235" source="Elsewith" target="Aethelred" weight="2" />
+      <edge id="236" source="Elsewith" target="Ecgberht" weight="2" />
+      <edge id="237" source="Elsewith" target="Judith" weight="8" />
+      <edge id="238" source="Elsewith" target="Mannel" weight="2" />
+      <edge id="239" source="Erik" target="Orlyg" weight="8" />
+      <edge id="240" source="Erik" target="Ingrid" weight="6" />
+      <edge id="241" source="Erik" target="Nissa" weight="6" />
+      <edge id="242" source="Erik" target="Gunnhild" weight="10" />
+      <edge id="243" source="Erik" target="Skane" weight="6" />
+      <edge id="244" source="Erik" target="Olaf" weight="4" />
+      <edge id="245" source="Erik" target="Ragnar" weight="2" />
+      <edge id="246" source="Erik" target="Leif" weight="2" />
+      <edge id="247" source="Erik" target="Arne" weight="2" />
+      <edge id="248" source="Erik" target="Knut Tjodolf" weight="2" />
+      <edge id="249" source="Erik" target="Elisef" weight="2" />
+      <edge id="250" source="Erik" target="Kauko" weight="2" />
+      <edge id="251" source="Gunnhild" target="Ingrid" weight="6" />
+      <edge id="252" source="Gunnhild" target="Ubbe" weight="12" />
+      <edge id="253" source="Gunnhild" target="Asa" weight="4" />
+      <edge id="254" source="Gunnhild" target="Hakon" weight="3" />
+      <edge id="255" source="Gunnhild" target="Hali" weight="2" />
+      <edge id="256" source="Gunnhild" target="Heahmund" weight="4" />
+      <edge id="257" source="Gunnhild" target="Hvitserk" weight="4" />
+      <edge id="258" source="Gunnhild" target="Ivar" weight="4" />
+      <edge id="259" source="Gunnhild" target="Lagertha" weight="4" />
+      <edge id="260" source="Gunnhild" target="Olavsonn" weight="6" />
+      <edge id="261" source="Gunnhild" target="Ragnar" weight="4" />
+      <edge id="262" source="Gunnhild" target="Sigurd" weight="2" />
+      <edge id="263" source="Gunnhild" target="White Hair" weight="2" />
+      <edge id="264" source="Gunnhild" target="Amma" weight="4" />
+      <edge id="265" source="Gunnhild" target="Ganbaatar" weight="4" />
+      <edge id="266" source="Halfdan" target="Euphemius" weight="1" />
+      <edge id="267" source="Halfdan" target="Floki" weight="2" />
+      <edge id="268" source="Halfdan" target="Helga" weight="1" />
+      <edge id="269" source="Halfdan" target="Ivar" weight="2" />
+      <edge id="270" source="Halfdan" target="Kassia" weight="1" />
+      <edge id="271" source="Halfdan" target="Lagertha" weight="2" />
+      <edge id="272" source="Halfdan" target="Ragnar" weight="1" />
+      <edge id="273" source="Halfdan" target="Rollo" weight="2" />
+      <edge id="274" source="Halfdan" target="Sinric" weight="2" />
+      <edge id="275" source="Halfdan" target="Svein" weight="1" />
+      <edge id="276" source="Halfdan" target="Ubbe" weight="4" />
+      <edge id="277" source="Halfdan" target="Ziyadat Allah" weight="2" />
+      <edge id="278" source="Halfdan" target="Hvitserk" weight="2" />
+      <edge id="279" source="Halfdan" target="Tanaruz" weight="1" />
+      <edge id="280" source="Halfdan" target="Heahmund" weight="1" />
+      <edge id="281" source="Hvitserk" target="Ælle" weight="4" />
+      <edge id="282" source="Hvitserk" target="Amma" weight="8" />
+      <edge id="283" source="Hvitserk" target="Asa" weight="8" />
+      <edge id="284" source="Hvitserk" target="Aslaug" weight="4" />
+      <edge id="285" source="Hvitserk" target="Borg" weight="2" />
+      <edge id="286" source="Hvitserk" target="Celsa" weight="6" />
+      <edge id="287" source="Hvitserk" target="Ecbert" weight="4" />
+      <edge id="288" source="Hvitserk" target="Floki" weight="8" />
+      <edge id="289" source="Hvitserk" target="Freydis" weight="4" />
+      <edge id="290" source="Hvitserk" target="Gisla" weight="2" />
+      <edge id="291" source="Hvitserk" target="Guthrum" weight="4" />
+      <edge id="292" source="Hvitserk" target="Gyda" weight="2" />
+      <edge id="293" source="Hvitserk" target="Hali" weight="2" />
+      <edge id="294" source="Hvitserk" target="Harbard" weight="4" />
+      <edge id="295" source="Hvitserk" target="Heahmund" weight="4" />
+      <edge id="296" source="Hvitserk" target="Helga" weight="2" />
+      <edge id="297" source="Hvitserk" target="Idun" weight="8" />
+      <edge id="298" source="Hvitserk" target="Ivar" weight="16" />
+      <edge id="299" source="Hvitserk" target="Lagertha" weight="6" />
+      <edge id="300" source="Hvitserk" target="Marcellus" weight="6" />
+      <edge id="301" source="Hvitserk" target="Margrethe" weight="6" />
+      <edge id="302" source="Hvitserk" target="Odin" weight="2" />
+      <edge id="303" source="Hvitserk" target="Olaf" weight="12" />
+      <edge id="304" source="Hvitserk" target="Oleg" weight="8" />
+      <edge id="305" source="Hvitserk" target="Ragnar" weight="8" />
+      <edge id="306" source="Hvitserk" target="Ragnar Ubbesson" weight="2" />
+      <edge id="307" source="Hvitserk" target="Rollo" weight="8" />
+      <edge id="308" source="Hvitserk" target="Siggy" weight="4" />
+      <edge id="309" source="Hvitserk" target="Siggy Bjornsdottir" weight="4" />
+      <edge id="310" source="Hvitserk" target="Sigurd" weight="8" />
+      <edge id="311" source="Hvitserk" target="The Seer" weight="4" />
+      <edge id="312" source="Hvitserk" target="Thora" weight="4" />
+      <edge id="313" source="Hvitserk" target="Torvi" weight="20" />
+      <edge id="314" source="Hvitserk" target="Ubbe" weight="20" />
+      <edge id="315" source="Hvitserk" target="White Hair" weight="5" />
+      <edge id="316" source="Hvitserk" target="William" weight="6" />
+      <edge id="317" source="Hvitserk" target="Askold" weight="2" />
+      <edge id="318" source="Hvitserk" target="Wiglaf" weight="4" />
+      <edge id="319" source="Hvitserk" target="Denewulf" weight="2" />
+      <edge id="320" source="Hvitserk" target="Aethelred" weight="2" />
+      <edge id="321" source="Hvitserk" target="Hakon" weight="2" />
+      <edge id="322" source="Hvitserk" target="Edmund" weight="2" />
+      <edge id="323" source="Hvitserk" target="Yidu" weight="2" />
+      <edge id="324" source="Hvitserk" target="Igor" weight="2" />
+      <edge id="325" source="Hvitserk" target="Katia" weight="2" />
+      <edge id="326" source="Hvitserk" target="Svase" weight="2" />
+      <edge id="327" source="Igor" target="Olaf" weight="6" />
+      <edge id="328" source="Igor" target="Askold" weight="5" />
+      <edge id="329" source="Igor" target="Dir" weight="5" />
+      <edge id="330" source="Igor" target="Ivar" weight="4" />
+      <edge id="331" source="Igor" target="Oleg" weight="12" />
+      <edge id="332" source="Igor" target="Katia" weight="4" />
+      <edge id="333" source="Ingrid" target="Hakon" weight="2" />
+      <edge id="334" source="Ingrid" target="Orlyg" weight="8" />
+      <edge id="335" source="Ingrid" target="Olaf" weight="4" />
+      <edge id="336" source="Ingrid" target="Nissa" weight="8" />
+      <edge id="337" source="Ingrid" target="Priest of Uppsala" weight="2" />
+      <edge id="338" source="Ivar" target="Ælle" weight="2" />
+      <edge id="339" source="Ivar" target="Sigurd" weight="6" />
+      <edge id="340" source="Ivar" target="Asa" weight="8" />
+      <edge id="341" source="Ivar" target="Siggy Bjornsdottir" weight="6" />
+      <edge id="342" source="Ivar" target="Olaf" weight="6" />
+      <edge id="343" source="Ivar" target="Oleg" weight="6" />
+      <edge id="344" source="Ivar" target="Askold" weight="2" />
+      <edge id="345" source="Ivar" target="Thora" weight="2" />
+      <edge id="346" source="Ivar" target="Aslaug" weight="6" />
+      <edge id="347" source="Ivar" target="Baldur Ivarsson" weight="4" />
+      <edge id="348" source="Ivar" target="Celsa" weight="2" />
+      <edge id="349" source="Ivar" target="Ecbert" weight="4" />
+      <edge id="350" source="Ivar" target="Floki" weight="4" />
+      <edge id="351" source="Ivar" target="Freydis" weight="4" />
+      <edge id="352" source="Ivar" target="Gisla" weight="2" />
+      <edge id="353" source="Ivar" target="Guthrum" weight="2" />
+      <edge id="354" source="Ivar" target="Gyda" weight="2" />
+      <edge id="355" source="Ivar" target="Hali" weight="2" />
+      <edge id="356" source="Ivar" target="Harbard" weight="4" />
+      <edge id="357" source="Ivar" target="Heahmund" weight="4" />
+      <edge id="358" source="Ivar" target="Jorgensen" weight="2" />
+      <edge id="359" source="Ivar" target="Katia" weight="8" />
+      <edge id="360" source="Ivar" target="Marcellus" weight="2" />
+      <edge id="361" source="Ivar" target="Odin" weight="2" />
+      <edge id="362" source="Ivar" target="Ragnar" weight="8" />
+      <edge id="363" source="Ivar" target="Ragnar Ubbesson" weight="2" />
+      <edge id="364" source="Ivar" target="Rollo" weight="6" />
+      <edge id="365" source="Ivar" target="Siggy" weight="6" />
+      <edge id="366" source="Ivar" target="Svase" weight="4" />
+      <edge id="367" source="Ivar" target="Torvi" weight="12" />
+      <edge id="368" source="Ivar" target="Ubbe" weight="16" />
+      <edge id="369" source="Ivar" target="William" weight="2" />
+      <edge id="370" source="Ivar" target="Wiglaf" weight="4" />
+      <edge id="371" source="Ivar" target="Vigrid" weight="3" />
+      <edge id="372" source="Ivar" target="White Hair" weight="2" />
+      <edge id="373" source="Ivar" target="Aethelred" weight="2" />
+      <edge id="374" source="Ivar" target="Hakon" weight="2" />
+      <edge id="375" source="Ivar" target="The Seer" weight="4" />
+      <edge id="376" source="Ivar" target="Amma" weight="4" />
+      <edge id="377" source="Ivar" target="Ganbaatar" weight="4" />
+      <edge id="378" source="Ivar" target="Cynebert" weight="2" />
+      <edge id="379" source="Ivar" target="Frodo" weight="2" />
+      <edge id="380" source="Ivar" target="Olavsonn" weight="2" />
+      <edge id="381" source="Ivar" target="Margrethe" weight="2" />
+      <edge id="382" source="Ivar" target="Natasha" weight="2" />
+      <edge id="383" source="Ivar" target="Tanaruz" weight="2" />
+      <edge id="384" source="Ivar" target="Dir" weight="2" />
+      <edge id="385" source="Ivar" target="Lagertha" weight="2" />
+      <edge id="386" source="Ivar" target="Snæfrid" weight="2" />
+      <edge id="387" source="Kjetill" target="Adam" weight="2" />
+      <edge id="388" source="Kjetill" target="Asbjorn" weight="2" />
+      <edge id="389" source="Kjetill" target="Aud" weight="6" />
+      <edge id="390" source="Kjetill" target="Bul" weight="4" />
+      <edge id="391" source="Kjetill" target="Eric Trygvasson" weight="4" />
+      <edge id="392" source="Kjetill" target="Eyvind" weight="5" />
+      <edge id="393" source="Kjetill" target="Floki" weight="10" />
+      <edge id="394" source="Kjetill" target="Frodi" weight="6" />
+      <edge id="395" source="Kjetill" target="Guthrum" weight="1" />
+      <edge id="396" source="Kjetill" target="Helgi" weight="6" />
+      <edge id="397" source="Kjetill" target="Ingvild" weight="4" />
+      <edge id="398" source="Kjetill" target="Jorunn" weight="2" />
+      <edge id="399" source="Kjetill" target="Lagertha" weight="2" />
+      <edge id="400" source="Kjetill" target="Rafarta" weight="4" />
+      <edge id="401" source="Kjetill" target="Thorgrim" weight="6" />
+      <edge id="402" source="Kjetill" target="Thorunn Kjetillsdottir" weight="3" />
+      <edge id="403" source="Kjetill" target="Othere" weight="4" />
+      <edge id="404" source="Kjetill" target="Ubbe" weight="4" />
+      <edge id="405" source="Lagertha" target="Ælle" weight="1" />
+      <edge id="406" source="Lagertha" target="Skadi" weight="1" />
+      <edge id="407" source="Lagertha" target="Egil's Wife" weight="1" />
+      <edge id="408" source="Lagertha" target="Sigurd" weight="2" />
+      <edge id="409" source="Lagertha" target="Asa" weight="8" />
+      <edge id="410" source="Lagertha" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="411" source="Lagertha" target="Angel of Death" weight="2" />
+      <edge id="412" source="Lagertha" target="Athelstan" weight="2" />
+      <edge id="413" source="Lagertha" target="Ubbe" weight="4" />
+      <edge id="414" source="Lagertha" target="Floki" weight="4" />
+      <edge id="415" source="Lagertha" target="Þorunn" weight="1" />
+      <edge id="416" source="Lagertha" target="Odin" weight="1" />
+      <edge id="417" source="Lagertha" target="Helga" weight="1" />
+      <edge id="418" source="Lagertha" target="Roland" weight="1" />
+      <edge id="419" source="Lagertha" target="Thorvard" weight="1" />
+      <edge id="420" source="Lagertha" target="Sigvard" weight="2" />
+      <edge id="421" source="Lagertha" target="Hali" weight="2" />
+      <edge id="422" source="Lagertha" target="Gisla" weight="2" />
+      <edge id="423" source="Lagertha" target="White Hair" weight="3" />
+      <edge id="424" source="Lagertha" target="Aslaug" weight="2" />
+      <edge id="425" source="Lagertha" target="Ragnar" weight="5" />
+      <edge id="426" source="Lagertha" target="Burgred" weight="1" />
+      <edge id="427" source="Lagertha" target="The Seer" weight="4" />
+      <edge id="428" source="Lagertha" target="Freydis" weight="1" />
+      <edge id="429" source="Lagertha" target="Erik Marteinn" weight="1" />
+      <edge id="430" source="Lagertha" target="Gunnhild (Wife of Horik)" weight="1" />
+      <edge id="431" source="Lagertha" target="Torstein" weight="1" />
+      <edge id="432" source="Lagertha" target="Siegfried" weight="2" />
+      <edge id="433" source="Lagertha" target="Horik" weight="2" />
+      <edge id="434" source="Lagertha" target="Borg" weight="2" />
+      <edge id="435" source="Lagertha" target="Magnus" weight="2" />
+      <edge id="436" source="Lagertha" target="Jorgensen" weight="2" />
+      <edge id="437" source="Lagertha" target="Gyda" weight="2" />
+      <edge id="438" source="Lagertha" target="Haraldson" weight="2" />
+      <edge id="439" source="Lagertha" target="Margrethe" weight="2" />
+      <edge id="440" source="Lagertha" target="Guthrum" weight="3" />
+      <edge id="441" source="Lagertha" target="Rollo" weight="3" />
+      <edge id="442" source="Lagertha" target="Judith" weight="2" />
+      <edge id="443" source="Lagertha" target="Priest of Uppsala" weight="1" />
+      <edge id="444" source="Lagertha" target="Erlendur" weight="2" />
+      <edge id="445" source="Lagertha" target="Tanaruz" weight="1" />
+      <edge id="446" source="Lagertha" target="Knut Tjodolf" weight="1" />
+      <edge id="447" source="Lagertha" target="Siggy" weight="2" />
+      <edge id="448" source="Lagertha" target="Kalf" weight="3" />
+      <edge id="449" source="Lagertha" target="Einar" weight="2" />
+      <edge id="450" source="Lagertha" target="Heahmund" weight="2" />
+      <edge id="451" source="Lagertha" target="Torvi" weight="12" />
+      <edge id="452" source="Lagertha" target="Kauko" weight="1" />
+      <edge id="453" source="Lagertha" target="Ecbert" weight="3" />
+      <edge id="454" source="Lagertha" target="Hakon (Ship Captain)" weight="1" />
+      <edge id="455" source="Lagertha" target="Kwenthrith" weight="1" />
+      <edge id="456" source="Lagertha" target="Snæfrid" weight="2" />
+      <edge id="457" source="Lagertha" target="Svase" weight="1" />
+      <edge id="458" source="Lagertha" target="Thorhall" weight="1" />
+      <edge id="459" source="Lagertha" target="Eyvind" weight="1" />
+      <edge id="460" source="Magnus" target="Ubbe" weight="4" />
+      <edge id="461" source="Magnus" target="White Hair" weight="1" />
+      <edge id="462" source="Magnus" target="Ragnar" weight="2" />
+      <edge id="463" source="Magnus" target="Amma" weight="2" />
+      <edge id="464" source="Magnus" target="Kwenthrith" weight="2" />
+      <edge id="465" source="Magnus" target="Ecbert" weight="1" />
+      <edge id="466" source="Magnus" target="Thorhall" weight="2" />
+      <edge id="467" source="Margrethe" target="Sigurd" weight="3" />
+      <edge id="468" source="Margrethe" target="Ubbe" weight="2" />
+      <edge id="469" source="Margrethe" target="Aslaug" weight="1" />
+      <edge id="470" source="Margrethe" target="Freydis" weight="2" />
+      <edge id="471" source="Margrethe" target="Ragnar" weight="1" />
+      <edge id="472" source="Margrethe" target="Torvi" weight="4" />
+      <edge id="473" source="Odin" target="Ubbe" weight="2" />
+      <edge id="474" source="Odin" target="Floki" weight="4" />
+      <edge id="475" source="Odin" target="Gyda" weight="1" />
+      <edge id="476" source="Odin" target="Haraldson" weight="2" />
+      <edge id="477" source="Odin" target="Harbard" weight="2" />
+      <edge id="478" source="Odin" target="Ragnar" weight="2" />
+      <edge id="479" source="Odin" target="Svein" weight="1" />
+      <edge id="480" source="Odin" target="The Seer" weight="2" />
+      <edge id="481" source="Odin" target="Aslaug" weight="1" />
+      <edge id="482" source="Odin" target="Freydis" weight="1" />
+      <edge id="483" source="Odin" target="Erik Marteinn" weight="1" />
+      <edge id="484" source="Odin" target="Torstein" weight="1" />
+      <edge id="485" source="Odin" target="Amma" weight="2" />
+      <edge id="486" source="Odin" target="Horik" weight="1" />
+      <edge id="487" source="Odin" target="Harald Sigurdsson" weight="2" />
+      <edge id="488" source="Odin" target="Rollo" weight="1" />
+      <edge id="489" source="Odin" target="Baldur Ivarsson" weight="1" />
+      <edge id="490" source="Odin" target="Dir" weight="1" />
+      <edge id="491" source="Olaf" target="Hallbjorn" weight="8" />
+      <edge id="492" source="Olaf" target="Oleg" weight="8" />
+      <edge id="493" source="Olaf" target="Ragnar" weight="2" />
+      <edge id="494" source="Olaf" target="Thora" weight="2" />
+      <edge id="495" source="Olaf" target="Gunnar Magnússon" weight="8" />
+      <edge id="496" source="Olaf" target="Sten Sigurdsson" weight="8" />
+      <edge id="497" source="Olaf" target="Nori" weight="2" />
+      <edge id="498" source="Olaf" target="Harald Sigurdsson" weight="4" />
+      <edge id="499" source="Olaf" target="Haraldson" weight="2" />
+      <edge id="500" source="Olaf" target="Torvi" weight="4" />
+      <edge id="501" source="Oleg" target="Hrolf" weight="2" />
+      <edge id="502" source="Oleg" target="Hakon" weight="4" />
+      <edge id="503" source="Oleg" target="Askold" weight="4" />
+      <edge id="504" source="Oleg" target="Ubbe" weight="4" />
+      <edge id="505" source="Oleg" target="Vigrid" weight="2" />
+      <edge id="506" source="Oleg" target="Katia" weight="6" />
+      <edge id="507" source="Oleg" target="Dir" weight="4" />
+      <edge id="508" source="Oleg" target="Freydis" weight="2" />
+      <edge id="509" source="Oleg" target="Anna" weight="2" />
+      <edge id="510" source="Oleg" target="Olaf (Rus')" weight="2" />
+      <edge id="511" source="Oleg" target="Natasha" weight="2" />
+      <edge id="512" source="Oleg" target="Baldur Ivarsson" weight="2" />
+      <edge id="513" source="Ragnar" target="Swithun" weight="1" />
+      <edge id="514" source="Ragnar" target="Ælle" weight="5" />
+      <edge id="515" source="Ragnar" target="Angrboda" weight="1" />
+      <edge id="516" source="Ragnar" target="Sigurd" weight="4" />
+      <edge id="517" source="Ragnar" target="Asa" weight="4" />
+      <edge id="518" source="Ragnar" target="Hild" weight="1" />
+      <edge id="519" source="Ragnar" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="520" source="Ragnar" target="Athelstan" weight="8" />
+      <edge id="521" source="Ragnar" target="Askold" weight="1" />
+      <edge id="522" source="Ragnar" target="Thora" weight="1" />
+      <edge id="523" source="Ragnar" target="Hakon (Ragnar's Crew)" weight="1" />
+      <edge id="524" source="Ragnar" target="Ubbe" weight="9" />
+      <edge id="525" source="Ragnar" target="Wigea" weight="1" />
+      <edge id="526" source="Ragnar" target="Floki" weight="13" />
+      <edge id="527" source="Ragnar" target="Stender" weight="1" />
+      <edge id="528" source="Ragnar" target="Þorunn" weight="2" />
+      <edge id="529" source="Ragnar" target="Bjarni" weight="1" />
+      <edge id="530" source="Ragnar" target="Helga" weight="2" />
+      <edge id="531" source="Ragnar" target="Tostig" weight="2" />
+      <edge id="532" source="Ragnar" target="Ulf" weight="1" />
+      <edge id="533" source="Ragnar" target="Thorvard" weight="1" />
+      <edge id="534" source="Ragnar" target="Eirik" weight="1" />
+      <edge id="535" source="Ragnar" target="Sigvard" weight="2" />
+      <edge id="536" source="Ragnar" target="Gisla" weight="2" />
+      <edge id="537" source="Ragnar" target="Arne" weight="1" />
+      <edge id="538" source="Ragnar" target="Aslaug" weight="2" />
+      <edge id="539" source="Ragnar" target="Borg" weight="3" />
+      <edge id="540" source="Ragnar" target="Burgred" weight="2" />
+      <edge id="541" source="Ragnar" target="Ecbert" weight="2" />
+      <edge id="542" source="Ragnar" target="Erik Marteinn" weight="2" />
+      <edge id="543" source="Ragnar" target="Erlendur" weight="2" />
+      <edge id="544" source="Ragnar" target="Gyda" weight="2" />
+      <edge id="545" source="Ragnar" target="Haraldson" weight="1" />
+      <edge id="546" source="Ragnar" target="Harbard" weight="1" />
+      <edge id="547" source="Ragnar" target="Horik" weight="3" />
+      <edge id="548" source="Ragnar" target="Kalf" weight="2" />
+      <edge id="549" source="Ragnar" target="Knut Tjodolf" weight="2" />
+      <edge id="550" source="Ragnar" target="Kwenthrith" weight="2" />
+      <edge id="551" source="Ragnar" target="Leif" weight="2" />
+      <edge id="552" source="Ragnar" target="Rollo" weight="5" />
+      <edge id="553" source="Ragnar" target="Siegfried" weight="1" />
+      <edge id="554" source="Ragnar" target="Siggy" weight="4" />
+      <edge id="555" source="Ragnar" target="The Seer" weight="8" />
+      <edge id="556" source="Ragnar" target="Torstein" weight="1" />
+      <edge id="557" source="Ragnar" target="Edmund" weight="1" />
+      <edge id="558" source="Ragnar" target="Nils" weight="1" />
+      <edge id="559" source="Ragnar" target="Gunnhild (Wife of Horik)" weight="1" />
+      <edge id="560" source="Ragnar" target="Eadric" weight="1" />
+      <edge id="561" source="Ragnar" target="Yidu" weight="3" />
+      <edge id="562" source="Ragnar" target="Svein" weight="1" />
+      <edge id="563" source="Ragnar" target="Olafur" weight="1" />
+      <edge id="564" source="Ragnar" target="Thyri" weight="1" />
+      <edge id="565" source="Ragnar" target="Unwan" weight="1" />
+      <edge id="566" source="Ragnar" target="Jorgensen" weight="1" />
+      <edge id="567" source="Ragnar" target="Æthelwulf of Northumbria" weight="2" />
+      <edge id="568" source="Ragnar" target="Werferth" weight="1" />
+      <edge id="569" source="Ragnar" target="Sinric" weight="1" />
+      <edge id="570" source="Ragnar" target="Guthrum" weight="1" />
+      <edge id="571" source="Ragnar" target="Edgar" weight="1" />
+      <edge id="572" source="Ragnar" target="Judith" weight="1" />
+      <edge id="573" source="Ragnar" target="Priest of Uppsala" weight="1" />
+      <edge id="574" source="Ragnar" target="Ari" weight="1" />
+      <edge id="575" source="Ragnar" target="Thorhall" weight="1" />
+      <edge id="576" source="Ragnar" target="Elisef" weight="1" />
+      <edge id="577" source="Ragnar" target="Charles" weight="1" />
+      <edge id="578" source="Ragnar" target="Einar" weight="1" />
+      <edge id="579" source="Ragnar" target="Torvi" weight="6" />
+      <edge id="580" source="Ragnar" target="Kauko" weight="1" />
+      <edge id="581" source="Ragnar" target="Saxon Sheriff" weight="2" />
+      <edge id="582" source="Rollo" target="Ælle" weight="1" />
+      <edge id="583" source="Rollo" target="Sigurd" weight="3" />
+      <edge id="584" source="Rollo" target="Therese" weight="1" />
+      <edge id="585" source="Rollo" target="Athelstan" weight="2" />
+      <edge id="586" source="Rollo" target="Ubbe" weight="6" />
+      <edge id="587" source="Rollo" target="Floki" weight="8" />
+      <edge id="588" source="Rollo" target="Bjarni" weight="1" />
+      <edge id="589" source="Rollo" target="Helga" weight="2" />
+      <edge id="590" source="Rollo" target="Roland" weight="1" />
+      <edge id="591" source="Rollo" target="Marcellus" weight="4" />
+      <edge id="592" source="Rollo" target="Eirik" weight="3" />
+      <edge id="593" source="Rollo" target="Gisla" weight="7" />
+      <edge id="594" source="Rollo" target="Aslaug" weight="3" />
+      <edge id="595" source="Rollo" target="Burgred" weight="1" />
+      <edge id="596" source="Rollo" target="Richard of Normandy" weight="1" />
+      <edge id="597" source="Rollo" target="The Seer" weight="4" />
+      <edge id="598" source="Rollo" target="William" weight="4" />
+      <edge id="599" source="Rollo" target="Erik Marteinn" weight="1" />
+      <edge id="600" source="Rollo" target="Torstein" weight="2" />
+      <edge id="601" source="Rollo" target="Lupus" weight="1" />
+      <edge id="602" source="Rollo" target="Arne" weight="2" />
+      <edge id="603" source="Rollo" target="Siegfried" weight="2" />
+      <edge id="604" source="Rollo" target="Horik" weight="2" />
+      <edge id="605" source="Rollo" target="Svein" weight="2" />
+      <edge id="606" source="Rollo" target="Borg" weight="3" />
+      <edge id="607" source="Rollo" target="Thyri" weight="2" />
+      <edge id="608" source="Rollo" target="Celsa" weight="4" />
+      <edge id="609" source="Rollo" target="Unwan" weight="1" />
+      <edge id="610" source="Rollo" target="Sinric" weight="4" />
+      <edge id="611" source="Rollo" target="Haraldson" weight="2" />
+      <edge id="612" source="Rollo" target="Emma of Normandy" weight="3" />
+      <edge id="613" source="Rollo" target="Cuthbert" weight="1" />
+      <edge id="614" source="Rollo" target="Æthelwulf of Northumbria" weight="1" />
+      <edge id="615" source="Rollo" target="Charles" weight="4" />
+      <edge id="616" source="Rollo" target="Ecbert" weight="2" />
+      <edge id="617" source="Rollo" target="Eric Trygvasson" weight="1" />
+      <edge id="618" source="Rollo" target="Erlendur" weight="1" />
+      <edge id="619" source="Rollo" target="Gyda" weight="2" />
+      <edge id="620" source="Rollo" target="Kalf" weight="2" />
+      <edge id="621" source="Rollo" target="Knut Tjodolf" weight="2" />
+      <edge id="622" source="Rollo" target="Kwenthrith" weight="1" />
+      <edge id="623" source="Rollo" target="Odo" weight="1" />
+      <edge id="624" source="Rollo" target="Siggy" weight="4" />
+      <edge id="625" source="Rollo" target="Torvi" weight="4" />
+      <edge id="626" source="Rollo" target="Judith" weight="1" />
+      <edge id="627" source="Rollo" target="Kauko" weight="1" />
+      <edge id="628" source="Rollo" target="Saxon Sheriff" weight="2" />
+      <edge id="629" source="Svein" target="Haraldson" weight="2" />
+      <edge id="630" source="Svein" target="Olafur" weight="1" />
+      <edge id="631" source="Thorkell" target="Hakon" weight="1" />
+      <edge id="632" source="Ubbe" target="Sigurd" weight="8" />
+      <edge id="633" source="Ubbe" target="Asa" weight="16" />
+      <edge id="634" source="Ubbe" target="Siggy Bjornsdottir" weight="4" />
+      <edge id="635" source="Ubbe" target="Othere" weight="10" />
+      <edge id="636" source="Ubbe" target="Naad" weight="12" />
+      <edge id="637" source="Ubbe" target="Ælle" weight="2" />
+      <edge id="638" source="Ubbe" target="Aethelred" weight="4" />
+      <edge id="639" source="Ubbe" target="Amma" weight="4" />
+      <edge id="640" source="Ubbe" target="Angantyr" weight="2" />
+      <edge id="641" source="Ubbe" target="Aslaug" weight="4" />
+      <edge id="642" source="Ubbe" target="Athelstan" weight="2" />
+      <edge id="643" source="Ubbe" target="Borg" weight="2" />
+      <edge id="644" source="Ubbe" target="Celsa" weight="2" />
+      <edge id="645" source="Ubbe" target="Ecbert" weight="2" />
+      <edge id="646" source="Ubbe" target="Floki" weight="8" />
+      <edge id="647" source="Ubbe" target="Freydis" weight="2" />
+      <edge id="648" source="Ubbe" target="Frodo" weight="4" />
+      <edge id="649" source="Ubbe" target="Gisla" weight="2" />
+      <edge id="650" source="Ubbe" target="Guthrum" weight="2" />
+      <edge id="651" source="Ubbe" target="Gyda" weight="2" />
+      <edge id="652" source="Ubbe" target="Hali" weight="6" />
+      <edge id="653" source="Ubbe" target="Haraldson" weight="2" />
+      <edge id="654" source="Ubbe" target="Harbard" weight="2" />
+      <edge id="655" source="Ubbe" target="Heahmund" weight="4" />
+      <edge id="656" source="Ubbe" target="Helga" weight="2" />
+      <edge id="657" source="Ubbe" target="Hemming" weight="2" />
+      <edge id="658" source="Ubbe" target="Kwenthrith" weight="2" />
+      <edge id="659" source="Ubbe" target="Marcellus" weight="2" />
+      <edge id="660" source="Ubbe" target="Ragnar Ubbesson" weight="3" />
+      <edge id="661" source="Ubbe" target="Siggy" weight="4" />
+      <edge id="662" source="Ubbe" target="Svase" weight="2" />
+      <edge id="663" source="Ubbe" target="The Seer" weight="6" />
+      <edge id="664" source="Ubbe" target="Torvi" weight="20" />
+      <edge id="665" source="Ubbe" target="White Hair" weight="2" />
+      <edge id="666" source="Ubbe" target="William" weight="2" />
+      <edge id="667" source="Ubbe" target="Gudrid" weight="8" />
+      <edge id="668" source="Ubbe" target="Denewulf" weight="2" />
+      <edge id="669" source="Ubbe" target="Snæfrid" weight="1" />
+      <edge id="670" source="Ubbe" target="Aldwin" weight="2" />
+      <edge id="671" source="Ubbe" target="Yidu" weight="2" />
+      <edge id="672" source="Ubbe" target="Ingvild" weight="2" />
+      <edge id="673" source="Ubbe" target="Frodi" weight="2" />
+      <edge id="674" source="Athelstan" target="Swithun" weight="2" />
+      <edge id="675" source="Athelstan" target="Aslaug" weight="3" />
+      <edge id="676" source="Athelstan" target="Borg" weight="1" />
+      <edge id="677" source="Athelstan" target="Cuthbert" weight="2" />
+      <edge id="678" source="Athelstan" target="Ecbert" weight="2" />
+      <edge id="679" source="Athelstan" target="Floki" weight="6" />
+      <edge id="680" source="Athelstan" target="Gyda" weight="2" />
+      <edge id="681" source="Athelstan" target="Haraldson" weight="2" />
+      <edge id="682" source="Athelstan" target="Horik" weight="2" />
+      <edge id="683" source="Athelstan" target="Judith" weight="5" />
+      <edge id="684" source="Athelstan" target="The Seer" weight="4" />
+      <edge id="685" source="Athelstan" target="Thyri" weight="3" />
+      <edge id="686" source="Athelstan" target="Helga" weight="1" />
+      <edge id="687" source="Athelstan" target="Aethelred" weight="1" />
+      <edge id="688" source="Athelstan" target="Edmund" weight="1" />
+      <edge id="689" source="Athelstan" target="Leif" weight="1" />
+      <edge id="690" source="Athelstan" target="Erik Marteinn" weight="1" />
+      <edge id="691" source="Athelstan" target="Arne" weight="1" />
+      <edge id="692" source="Athelstan" target="Yidu" weight="1" />
+      <edge id="693" source="Athelstan" target="Kwenthrith" weight="1" />
+      <edge id="694" source="Athelstan" target="Sinric" weight="1" />
+      <edge id="695" source="Athelstan" target="Priest of Uppsala" weight="1" />
+      <edge id="696" source="Athelstan" target="Siggy" weight="1" />
+      <edge id="697" source="Swithun" target="Horik" weight="1" />
+      <edge id="698" source="Swithun" target="Edmund" weight="1" />
+      <edge id="699" source="Swithun" target="Eadric" weight="1" />
+      <edge id="700" source="Horik" target="Floki" weight="4" />
+      <edge id="701" source="Horik" target="Helga" weight="1" />
+      <edge id="702" source="Horik" target="Thorvard" weight="1" />
+      <edge id="703" source="Horik" target="Aslaug" weight="2" />
+      <edge id="704" source="Horik" target="Edmund" weight="1" />
+      <edge id="705" source="Horik" target="Gunnhild (Wife of Horik)" weight="1" />
+      <edge id="706" source="Horik" target="Torstein" weight="2" />
+      <edge id="707" source="Horik" target="Arne" weight="1" />
+      <edge id="708" source="Horik" target="Ari" weight="2" />
+      <edge id="709" source="Horik" target="Borg" weight="2" />
+      <edge id="710" source="Horik" target="Ecbert" weight="2" />
+      <edge id="711" source="Horik" target="Erlendur" weight="2" />
+      <edge id="712" source="Horik" target="Kwenthrith" weight="1" />
+      <edge id="713" source="Horik" target="Siggy" weight="3" />
+      <edge id="714" source="Horik" target="Sigvard" weight="1" />
+      <edge id="715" source="Horik" target="Eadric" weight="1" />
+      <edge id="716" source="Horik" target="Werferth" weight="1" />
+      <edge id="717" source="Horik" target="Gyda" weight="1" />
+      <edge id="718" source="Horik" target="Torvi" weight="2" />
+      <edge id="719" source="Hakon" target="Ganbaatar" weight="4" />
+      <edge id="720" source="Asa" target="Sigurd" weight="4" />
+      <edge id="721" source="Asa" target="Guthrum" weight="4" />
+      <edge id="722" source="Asa" target="Hali" weight="6" />
+      <edge id="723" source="Asa" target="Ragnar Ubbesson" weight="2" />
+      <edge id="724" source="Asa" target="Siggy" weight="2" />
+      <edge id="725" source="Asa" target="Siggy Bjornsdottir" weight="4" />
+      <edge id="726" source="Asa" target="Torvi" weight="16" />
+      <edge id="727" source="Aslaug" target="Angrboda" weight="1" />
+      <edge id="728" source="Aslaug" target="Sigurd" weight="2" />
+      <edge id="729" source="Aslaug" target="Hild" weight="2" />
+      <edge id="730" source="Aslaug" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="731" source="Aslaug" target="Floki" weight="6" />
+      <edge id="732" source="Aslaug" target="Þorunn" weight="2" />
+      <edge id="733" source="Aslaug" target="Helga" weight="2" />
+      <edge id="734" source="Aslaug" target="Ansgar" weight="1" />
+      <edge id="735" source="Aslaug" target="Ælle" weight="1" />
+      <edge id="736" source="Aslaug" target="Arne" weight="2" />
+      <edge id="737" source="Aslaug" target="Borg" weight="1" />
+      <edge id="738" source="Aslaug" target="Ecbert" weight="1" />
+      <edge id="739" source="Aslaug" target="Harbard" weight="1" />
+      <edge id="740" source="Aslaug" target="Siggy" weight="3" />
+      <edge id="741" source="Aslaug" target="The Seer" weight="4" />
+      <edge id="742" source="Aslaug" target="Torstein" weight="1" />
+      <edge id="743" source="Aslaug" target="Torvi" weight="6" />
+      <edge id="744" source="Aslaug" target="Yidu" weight="2" />
+      <edge id="745" source="Aslaug" target="Olaf (Rus')" weight="1" />
+      <edge id="746" source="Aslaug" target="Thorhall" weight="1" />
+      <edge id="747" source="Borg" target="Floki" weight="2" />
+      <edge id="748" source="Borg" target="Helga" weight="1" />
+      <edge id="749" source="Borg" target="Thorvard" weight="1" />
+      <edge id="750" source="Borg" target="Sigvard" weight="1" />
+      <edge id="751" source="Borg" target="The Seer" weight="4" />
+      <edge id="752" source="Borg" target="Torstein" weight="1" />
+      <edge id="753" source="Borg" target="Arne" weight="1" />
+      <edge id="754" source="Borg" target="Guthrum" weight="1" />
+      <edge id="755" source="Borg" target="Siggy" weight="2" />
+      <edge id="756" source="Borg" target="Torvi" weight="10" />
+      <edge id="757" source="Borg" target="Kalf" weight="1" />
+      <edge id="758" source="Celsa" target="Sigurd" weight="1" />
+      <edge id="759" source="Celsa" target="Marcellus" weight="2" />
+      <edge id="760" source="Celsa" target="Gisla" weight="2" />
+      <edge id="761" source="Celsa" target="William" weight="2" />
+      <edge id="762" source="Eric Trygvasson" target="Rafarta" weight="1" />
+      <edge id="763" source="Eric Trygvasson" target="Haraldson" weight="2" />
+      <edge id="764" source="Erlendur" target="Floki" weight="2" />
+      <edge id="765" source="Erlendur" target="Roland" weight="1" />
+      <edge id="766" source="Erlendur" target="Thorvard" weight="1" />
+      <edge id="767" source="Erlendur" target="Siegfried" weight="2" />
+      <edge id="768" source="Erlendur" target="Guthrum" weight="2" />
+      <edge id="769" source="Erlendur" target="Ari" weight="2" />
+      <edge id="770" source="Erlendur" target="Ecbert" weight="1" />
+      <edge id="771" source="Erlendur" target="Einar" weight="1" />
+      <edge id="772" source="Erlendur" target="Kalf" weight="2" />
+      <edge id="773" source="Erlendur" target="Siggy" weight="3" />
+      <edge id="774" source="Erlendur" target="The Berserker" weight="2" />
+      <edge id="775" source="Erlendur" target="Torvi" weight="10" />
+      <edge id="776" source="Euphemius" target="Kassia" weight="1" />
+      <edge id="777" source="Euphemius" target="Sinric" weight="1" />
+      <edge id="778" source="Euphemius" target="Ziyadat Allah" weight="2" />
+      <edge id="779" source="Floki" target="Ælle" weight="3" />
+      <edge id="780" source="Floki" target="Jorunn" weight="2" />
+      <edge id="781" source="Floki" target="Othere" weight="6" />
+      <edge id="782" source="Floki" target="Thorunn Kjetillsdottir" weight="2" />
+      <edge id="783" source="Floki" target="Angrboda" weight="5" />
+      <edge id="784" source="Floki" target="Burgred" weight="2" />
+      <edge id="785" source="Floki" target="Ecbert" weight="2" />
+      <edge id="786" source="Floki" target="Gisla" weight="2" />
+      <edge id="787" source="Floki" target="Haraldson" weight="2" />
+      <edge id="788" source="Floki" target="Harbard" weight="4" />
+      <edge id="789" source="Floki" target="Helga" weight="16" />
+      <edge id="790" source="Floki" target="Kwenthrith" weight="2" />
+      <edge id="791" source="Floki" target="Naad" weight="2" />
+      <edge id="792" source="Floki" target="Siggy" weight="2" />
+      <edge id="793" source="Floki" target="Tanaruz" weight="1" />
+      <edge id="794" source="Floki" target="Torstein" weight="2" />
+      <edge id="795" source="Floki" target="Torvi" weight="6" />
+      <edge id="796" source="Floki" target="Stender" weight="2" />
+      <edge id="797" source="Floki" target="William" weight="2" />
+      <edge id="798" source="Floki" target="Edmund" weight="2" />
+      <edge id="799" source="Floki" target="Arne" weight="2" />
+      <edge id="800" source="Floki" target="Aud" weight="2" />
+      <edge id="801" source="Floki" target="Guthrum" weight="2" />
+      <edge id="802" source="Floki" target="Asbjorn" weight="2" />
+      <edge id="803" source="Floki" target="Frodi" weight="2" />
+      <edge id="804" source="Floki" target="Eyvind" weight="2" />
+      <edge id="805" source="Floki" target="Saxon Sheriff" weight="2" />
+      <edge id="806" source="Floki" target="Thorgrim" weight="2" />
+      <edge id="807" source="Freydis" target="Kåre" weight="3" />
+      <edge id="808" source="Freydis" target="Sigurd" weight="1" />
+      <edge id="809" source="Freydis" target="Leif Eriksson" weight="4" />
+      <edge id="810" source="Freydis" target="Birger" weight="2" />
+      <edge id="811" source="Freydis" target="Estrid Haakon" weight="2" />
+      <edge id="812" source="Freydis" target="Freydis Eriksdotter" weight="8" />
+      <edge id="813" source="Freydis" target="White Hair" weight="1" />
+      <edge id="814" source="Freydis" target="Yrsa" weight="2" />
+      <edge id="815" source="Freydis" target="Katia" weight="2" />
+      <edge id="816" source="Freydis" target="Thora" weight="1" />
+      <edge id="817" source="Freydis" target="Gunnar Magnússon" weight="2" />
+      <edge id="818" source="Freydis" target="Harald Sigurdsson" weight="1" />
+      <edge id="819" source="Freydis" target="Baldur Ivarsson" weight="1" />
+      <edge id="820" source="Freydis" target="Olaf Haraldsson" weight="1" />
+      <edge id="821" source="Ganbaatar" target="Vigrid" weight="2" />
+      <edge id="822" source="Ganbaatar" target="Herigar" weight="2" />
+      <edge id="823" source="Ganbaatar" target="Amma" weight="12" />
+      <edge id="824" source="Gisla" target="Sigurd" weight="1" />
+      <edge id="825" source="Gisla" target="Therese" weight="1" />
+      <edge id="826" source="Gisla" target="Roland" weight="2" />
+      <edge id="827" source="Gisla" target="Marcellus" weight="2" />
+      <edge id="828" source="Gisla" target="Eirik" weight="1" />
+      <edge id="829" source="Gisla" target="Charles" weight="2" />
+      <edge id="830" source="Gisla" target="Odo" weight="1" />
+      <edge id="831" source="Gisla" target="Siegfried" weight="2" />
+      <edge id="832" source="Gisla" target="Sinric" weight="2" />
+      <edge id="833" source="Gisla" target="William" weight="2" />
+      <edge id="834" source="Guthrum" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="835" source="Guthrum" target="Aud" weight="1" />
+      <edge id="836" source="Guthrum" target="Eyvind" weight="2" />
+      <edge id="837" source="Guthrum" target="Hali" weight="1" />
+      <edge id="838" source="Guthrum" target="Kalf" weight="1" />
+      <edge id="839" source="Guthrum" target="Torvi" weight="4" />
+      <edge id="840" source="Gyda" target="Sigurd" weight="1" />
+      <edge id="841" source="Gyda" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="842" source="Gyda" target="Angel of Death" weight="2" />
+      <edge id="843" source="Gyda" target="Ælle" weight="1" />
+      <edge id="844" source="Gyda" target="Siggy" weight="1" />
+      <edge id="845" source="Gyda" target="Torvi" weight="2" />
+      <edge id="846" source="Hali" target="Sigurd" weight="1" />
+      <edge id="847" source="Hali" target="Siggy Bjornsdottir" weight="1" />
+      <edge id="848" source="Hali" target="White Hair" weight="2" />
+      <edge id="849" source="Hali" target="Torvi" weight="4" />
+      <edge id="850" source="Haraldson" target="Rafarta" weight="1" />
+      <edge id="851" source="Haraldson" target="Tostig" weight="1" />
+      <edge id="852" source="Haraldson" target="Ulf" weight="1" />
+      <edge id="853" source="Haraldson" target="The Seer" weight="2" />
+      <edge id="854" source="Haraldson" target="Erik Marteinn" weight="1" />
+      <edge id="855" source="Haraldson" target="Torstein" weight="1" />
+      <edge id="856" source="Haraldson" target="Arne" weight="1" />
+      <edge id="857" source="Haraldson" target="Olafur" weight="2" />
+      <edge id="858" source="Haraldson" target="Bjarni" weight="1" />
+      <edge id="859" source="Haraldson" target="Knut Tjodolf" weight="1" />
+      <edge id="860" source="Haraldson" target="Siggy" weight="2" />
+      <edge id="861" source="Kassia" target="Ziyadat Allah" weight="3" />
+      <edge id="862" source="Kassia" target="Sinric" weight="1" />
+      <edge id="863" source="Marcellus" target="Sigurd" weight="1" />
+      <edge id="864" source="Marcellus" target="William" weight="2" />
+      <edge id="865" source="Ragnar Ubbesson" target="Sigurd" weight="1" />
+      <edge id="866" source="Ragnar Ubbesson" target="Torvi" weight="2" />
+      <edge id="867" source="Siggy" target="Angrboda" weight="1" />
+      <edge id="868" source="Siggy" target="Sigurd" weight="2" />
+      <edge id="869" source="Siggy" target="Siggy Bjornsdottir" weight="4" />
+      <edge id="870" source="Siggy" target="Þorunn" weight="1" />
+      <edge id="871" source="Siggy" target="Bjarni" weight="2" />
+      <edge id="872" source="Siggy" target="Helga" weight="3" />
+      <edge id="873" source="Siggy" target="Torstein" weight="1" />
+      <edge id="874" source="Siggy" target="Olafur" weight="1" />
+      <edge id="875" source="Siggy" target="Harbard" weight="1" />
+      <edge id="876" source="Siggy" target="The Seer" weight="2" />
+      <edge id="877" source="Siggy" target="Thyri" weight="2" />
+      <edge id="878" source="Siggy" target="Torvi" weight="2" />
+      <edge id="879" source="Siggy Bjornsdottir" target="Sigurd" weight="3" />
+      <edge id="880" source="Siggy Bjornsdottir" target="Þorunn" weight="1" />
+      <edge id="881" source="Siggy Bjornsdottir" target="Torvi" weight="4" />
+      <edge id="882" source="Sigurd" target="Ælle" weight="2" />
+      <edge id="883" source="Sigurd" target="Ecbert" weight="1" />
+      <edge id="884" source="Sigurd" target="Harbard" weight="2" />
+      <edge id="885" source="Sigurd" target="Torvi" weight="6" />
+      <edge id="886" source="Sigurd" target="William" weight="1" />
+      <edge id="887" source="Sigurd" target="Hild" weight="1" />
+      <edge id="888" source="Sigvard" target="Einar" weight="2" />
+      <edge id="889" source="Sinric" target="Siegfried" weight="2" />
+      <edge id="890" source="Sinric" target="Charles" weight="1" />
+      <edge id="891" source="Sinric" target="Odo" weight="1" />
+      <edge id="892" source="Sinric" target="Ziyadat Allah" weight="2" />
+      <edge id="893" source="Sinric" target="Kalf" weight="1" />
+      <edge id="894" source="Snæfrid" target="Svase" weight="2" />
+      <edge id="895" source="Snæfrid" target="The Seer" weight="2" />
+      <edge id="896" source="The Berserker" target="Kalf" weight="2" />
+      <edge id="897" source="The Berserker" target="Torvi" weight="2" />
+      <edge id="898" source="The Seer" target="Skadi" weight="2" />
+      <edge id="899" source="The Seer" target="Priest of Uppsala" weight="2" />
+      <edge id="900" source="Þorunn" target="Torvi" weight="2" />
+      <edge id="901" source="Torstein" target="Helga" weight="2" />
+      <edge id="902" source="Torstein" target="Arne" weight="2" />
+      <edge id="903" source="Torstein" target="Bjarni" weight="1" />
+      <edge id="904" source="Torstein" target="Ecbert" weight="1" />
+      <edge id="905" source="Torstein" target="Kwenthrith" weight="1" />
+      <edge id="906" source="Torstein" target="Thyri" weight="1" />
+      <edge id="907" source="Torstein" target="Torvi" weight="2" />
+      <edge id="908" source="Torstein" target="Kauko" weight="1" />
+      <edge id="909" source="Torvi" target="Othere" weight="4" />
+      <edge id="910" source="Torvi" target="Naad" weight="4" />
+      <edge id="911" source="Torvi" target="Helga" weight="2" />
+      <edge id="912" source="Torvi" target="Nikani" weight="4" />
+      <edge id="913" source="Torvi" target="Aldwin" weight="2" />
+      <edge id="914" source="Torvi" target="Frodo" weight="2" />
+      <edge id="915" source="Torvi" target="Ingvild" weight="2" />
+      <edge id="916" source="Torvi" target="Peminuit" weight="4" />
+      <edge id="917" source="Torvi" target="Kalf" weight="4" />
+      <edge id="918" source="Torvi" target="Heahmund" weight="2" />
+      <edge id="919" source="Torvi" target="Jorgensen" weight="2" />
+      <edge id="920" source="White Hair" target="Skadi" weight="2" />
+      <edge id="921" source="White Hair" target="Gundmund" weight="2" />
+      <edge id="922" source="White Hair" target="Tarben" weight="1" />
+      <edge id="923" source="Aethelred &quot;the Unready&quot;" target="Edmund (Valhalla)" weight="12" />
+      <edge id="924" source="Aethelred &quot;the Unready&quot;" target="Emma of Normandy" weight="16" />
+      <edge id="925" source="Aethelred &quot;the Unready&quot;" target="Sten Sigurdsson" weight="8" />
+      <edge id="926" source="Aethelred &quot;the Unready&quot;" target="Olaf Haraldsson" weight="2" />
+      <edge id="927" source="Edmund (Valhalla)" target="Aethelred" weight="4" />
+      <edge id="928" source="Edmund (Valhalla)" target="Emma of Normandy" weight="8" />
+      <edge id="929" source="Edmund (Valhalla)" target="Godwin" weight="4" />
+      <edge id="930" source="Edmund (Valhalla)" target="Sweyn Forkbeard" weight="4" />
+      <edge id="931" source="Emma of Normandy" target="Canute (Valhalla)" weight="10" />
+      <edge id="932" source="Emma of Normandy" target="Gytha" weight="4" />
+      <edge id="933" source="Emma of Normandy" target="Richard of Normandy" weight="4" />
+      <edge id="934" source="Emma of Normandy" target="Aethelred" weight="4" />
+      <edge id="935" source="Ælle" target="Æthelwulf of Northumbria" weight="4" />
+      <edge id="936" source="Ælle" target="Burgred" weight="1" />
+      <edge id="937" source="Ælle" target="Ecbert" weight="2" />
+      <edge id="938" source="Ælle" target="Judith" weight="2" />
+      <edge id="939" source="Ælle" target="Kwenthrith" weight="2" />
+      <edge id="940" source="Ælle" target="Unwan" weight="1" />
+      <edge id="941" source="Ælle" target="Wigea" weight="2" />
+      <edge id="942" source="Ælle" target="Erik Marteinn" weight="1" />
+      <edge id="943" source="Ælle" target="Edgar" weight="1" />
+      <edge id="944" source="Æthelwulf of Northumbria" target="Aethelred" weight="1" />
+      <edge id="945" source="Æthelwulf of Northumbria" target="Ealhswith" weight="2" />
+      <edge id="946" source="Æthelwulf of Northumbria" target="Ecgberht" weight="1" />
+      <edge id="947" source="Æthelwulf of Northumbria" target="Judith" weight="2" />
+      <edge id="948" source="Æthelwulf of Northumbria" target="Edgar" weight="1" />
+      <edge id="949" source="Burgred" target="Ecbert" weight="1" />
+      <edge id="950" source="Burgred" target="Judith" weight="1" />
+      <edge id="951" source="Burgred" target="Kwenthrith" weight="2" />
+      <edge id="952" source="Ecbert" target="Wigstan" weight="4" />
+      <edge id="953" source="Ecbert" target="Stender" weight="1" />
+      <edge id="954" source="Ecbert" target="Thorvard" weight="1" />
+      <edge id="955" source="Ecbert" target="Wærferth" weight="2" />
+      <edge id="956" source="Ecbert" target="Aethelred" weight="2" />
+      <edge id="957" source="Ecbert" target="Edmund" weight="1" />
+      <edge id="958" source="Ecbert" target="Leo IV" weight="1" />
+      <edge id="959" source="Ecbert" target="Kwenthrith" weight="2" />
+      <edge id="960" source="Ecbert" target="Unwan" weight="1" />
+      <edge id="961" source="Ecbert" target="Werferth" weight="1" />
+      <edge id="962" source="Ecbert" target="Judith" weight="4" />
+      <edge id="963" source="Ecbert" target="Prudentius" weight="1" />
+      <edge id="964" source="Ecbert" target="Tanaruz" weight="1" />
+      <edge id="965" source="Ecbert" target="Thorhall" weight="1" />
+      <edge id="966" source="Ecbert" target="Heahmund" weight="1" />
+      <edge id="967" source="Judith" target="Cyneheard" weight="1" />
+      <edge id="968" source="Judith" target="Aethelred" weight="7" />
+      <edge id="969" source="Judith" target="Edmund" weight="1" />
+      <edge id="970" source="Judith" target="Ealhswith" weight="2" />
+      <edge id="971" source="Judith" target="Ecgberht" weight="1" />
+      <edge id="972" source="Judith" target="Kwenthrith" weight="1" />
+      <edge id="973" source="Judith" target="Mannel" weight="1" />
+      <edge id="974" source="Judith" target="Heahmund" weight="1" />
+      <edge id="975" source="Kwenthrith" target="Wigstan" weight="1" />
+      <edge id="976" source="Kwenthrith" target="Wærferth" weight="2" />
+      <edge id="977" source="Kwenthrith" target="Thorhall" weight="1" />
+      <edge id="978" source="Unwan" target="Edmund" weight="1" />
+      <edge id="979" source="Wigea" target="Edgar" weight="2" />
+      <edge id="980" source="Orlyg" target="Nissa" weight="4" />
+      <edge id="981" source="Helga" target="Angrboda" weight="2" />
+      <edge id="982" source="Helga" target="Tanaruz" weight="3" />
+      <edge id="983" source="Helga" target="Yidu" weight="1" />
+      <edge id="984" source="Kåre" target="Freydis Eriksdotter" weight="6" />
+      <edge id="985" source="Freydis Eriksdotter" target="Leif Eriksson" weight="20" />
+      <edge id="986" source="Freydis Eriksdotter" target="Birger" weight="4" />
+      <edge id="987" source="Freydis Eriksdotter" target="Estrid Haakon" weight="8" />
+      <edge id="988" source="Freydis Eriksdotter" target="Harald Sigurdsson" weight="6" />
+      <edge id="989" source="Freydis Eriksdotter" target="Leif" weight="6" />
+      <edge id="990" source="Freydis Eriksdotter" target="Yrsa" weight="4" />
+      <edge id="991" source="Freydis Eriksdotter" target="Gunnar Magnússon" weight="4" />
+      <edge id="992" source="Freydis Eriksdotter" target="Olaf Haraldsson" weight="2" />
+      <edge id="993" source="Kåre" target="Liv" weight="4" />
+      <edge id="994" source="Kåre" target="Estrid Haakon" weight="4" />
+      <edge id="995" source="Kåre" target="Yrsa" weight="4" />
+      <edge id="996" source="Liv" target="Leif" weight="5" />
+      <edge id="997" source="Liv" target="Leif Eriksson" weight="10" />
+      <edge id="998" source="Leif" target="Leif Eriksson" weight="8" />
+      <edge id="999" source="Leif" target="Toke" weight="1" />
+      <edge id="1000" source="Leif" target="Birger" weight="4" />
+      <edge id="1001" source="Leif" target="Gorm" weight="2" />
+      <edge id="1002" source="Leif" target="Njal" weight="4" />
+      <edge id="1003" source="Leif" target="Johan" weight="2" />
+      <edge id="1004" source="Leif" target="Yrsa" weight="4" />
+      <edge id="1005" source="Leif" target="Erik Marteinn" weight="1" />
+      <edge id="1006" source="Leif" target="Arne" weight="2" />
+      <edge id="1007" source="Leif" target="Thyri" weight="1" />
+      <edge id="1008" source="Leif" target="Elisef" weight="1" />
+      <edge id="1009" source="Leif" target="Kauko" weight="1" />
+      <edge id="1010" source="Leif Eriksson" target="Estrid Haakon" weight="2" />
+      <edge id="1011" source="Leif Eriksson" target="Toke" weight="2" />
+      <edge id="1012" source="Leif Eriksson" target="Birger" weight="8" />
+      <edge id="1013" source="Leif Eriksson" target="Gorm" weight="4" />
+      <edge id="1014" source="Leif Eriksson" target="Njal" weight="8" />
+      <edge id="1015" source="Leif Eriksson" target="Johan" weight="4" />
+      <edge id="1016" source="Leif Eriksson" target="Yrsa" weight="8" />
+      <edge id="1017" source="Harbard" target="Olaf (Rus')" weight="1" />
+      <edge id="1018" source="Heahmund" target="Mannel" weight="2" />
+      <edge id="1019" source="Heahmund" target="Aethelred" weight="2" />
+      <edge id="1020" source="Heahmund" target="Æthelgyth" weight="1" />
+      <edge id="1021" source="Heahmund" target="Cuthred" weight="1" />
+      <edge id="1022" source="Ælfgifu" target="Canute (Valhalla)" weight="16" />
+      <edge id="1023" source="Ælfgifu" target="Sweyn Forkbeard" weight="2" />
+      <edge id="1024" source="Canute (Valhalla)" target="Eadric Streona" weight="4" />
+      <edge id="1025" source="Canute (Valhalla)" target="Sweyn Forkbeard" weight="12" />
+      <edge id="1026" source="Canute (Valhalla)" target="Gorm" weight="4" />
+      <edge id="1027" source="Canute (Valhalla)" target="Estrid Haakon" weight="4" />
+      <edge id="1028" source="Canute (Valhalla)" target="Nori" weight="4" />
+      <edge id="1029" source="Canute (Valhalla)" target="Olaf Haraldsson" weight="2" />
+      <edge id="1030" source="Hallbjorn" target="Olaf Haraldsson" weight="8" />
+      <edge id="1031" source="Olaf Haraldsson" target="Harald Sigurdsson" weight="12" />
+      <edge id="1032" source="Olaf Haraldsson" target="Sten Sigurdsson" weight="12" />
+      <edge id="1033" source="Olaf Haraldsson" target="Gunnar Magnússon" weight="8" />
+      <edge id="1034" source="Olaf Haraldsson" target="Nori" weight="2" />
+      <edge id="1035" source="Olaf Haraldsson" target="Aethelred" weight="1" />
+      <edge id="1036" source="Olaf Haraldsson" target="Gunnar Magnússon" weight="2" />
+      <edge id="1037" source="Sweyn Forkbeard" target="Sigeferth" weight="2" />
+      <edge id="1038" source="Sweyn Forkbeard" target="Gytha" weight="4" />
+      <edge id="1039" source="Therese" target="Odo" weight="1" />
+      <edge id="1040" source="Therese" target="Roland" weight="3" />
+      <edge id="1041" source="Odo" target="Roland" weight="1" />
+      <edge id="1042" source="Odo" target="Siegfried" weight="1" />
+      <edge id="1043" source="Odo" target="Kalf" weight="1" />
+      <edge id="1044" source="Odo" target="Charles" weight="1" />
+      <edge id="1045" source="Roland" target="Charles" weight="1" />
+      <edge id="1046" source="Roland" target="Kalf" weight="1" />
+      <edge id="1047" source="Roland" target="Eirik" weight="1" />
+      <edge id="1048" source="Asbjorn" target="Jorunn" weight="1" />
+      <edge id="1049" source="Asbjorn" target="Thorunn Kjetillsdottir" weight="1" />
+      <edge id="1050" source="Asbjorn" target="Helgi" weight="1" />
+      <edge id="1051" source="Asbjorn" target="Eyvind" weight="1" />
+      <edge id="1052" source="Aud" target="Rafarta" weight="1" />
+      <edge id="1053" source="Bul" target="Thorgrim" weight="2" />
+      <edge id="1054" source="Bul" target="Eyvind" weight="1" />
+      <edge id="1055" source="Eyvind" target="Frodi" weight="1" />
+      <edge id="1056" source="Eyvind" target="Helgi" weight="1" />
+      <edge id="1057" source="Eyvind" target="Thorgrim" weight="1" />
+      <edge id="1058" source="Frodi" target="Jorunn" weight="1" />
+      <edge id="1059" source="Frodi" target="Helgi" weight="1" />
+      <edge id="1060" source="Frodi" target="Thorgrim" weight="1" />
+      <edge id="1061" source="Helgi" target="Thorunn Kjetillsdottir" weight="2" />
+      <edge id="1062" source="Helgi" target="Rafarta" weight="2" />
+      <edge id="1063" source="Helgi" target="Jorunn" weight="1" />
+      <edge id="1064" source="Rafarta" target="Thorunn Kjetillsdottir" weight="2" />
+      <edge id="1065" source="Birger" target="Gorm" weight="4" />
+      <edge id="1066" source="Gorm" target="Arne" weight="2" />
+      <edge id="1067" source="Gorm" target="Arne Gormsson" weight="8" />
+      <edge id="1068" source="Angel of Death" target="Gyda (Shieldmaiden)" weight="4" />
+      <edge id="1069" source="Thyri" target="Bjarni" weight="1" />
+      <edge id="1070" source="Aethelred" target="Cyneheard" weight="1" />
+      <edge id="1071" source="Aethelred" target="Ealhswith" weight="1" />
+      <edge id="1072" source="Aethelred" target="Ecgberht" weight="1" />
+      <edge id="1073" source="Aethelred" target="Ethelfled" weight="1" />
+      <edge id="1074" source="Aethelred" target="Mannel" weight="1" />
+      <edge id="1075" source="Aethelred" target="Edmund" weight="1" />
+      <edge id="1076" source="Aethelred" target="Sten Sigurdsson" weight="4" />
+      <edge id="1077" source="Ecgberht" target="Ari" weight="1" />
+      <edge id="1078" source="Leo IV" target="Prudentius" weight="2" />
+      <edge id="1079" source="Othere" target="Naad" weight="4" />
+      <edge id="1080" source="Askold" target="Dir" weight="2" />
+      <edge id="1081" source="Dir" target="Anna" weight="2" />
+      <edge id="1082" source="Dir" target="Katia" weight="1" />
+      <edge id="1083" source="Dir" target="Natasha" weight="1" />
+      <edge id="1084" source="Jorgensen" target="Hoskuld" weight="2" />
+      <edge id="1085" source="Jorgensen" target="Priest of Uppsala" weight="1" />
+      <edge id="1086" source="Jorgensen" target="Tanaruz" weight="1" />
+      <edge id="1087" source="Arne" target="Erik Marteinn" weight="1" />
+      <edge id="1088" source="Gudrid" target="Naad" weight="16" />
+      <edge id="1089" source="Naad" target="We'jitu" weight="8" />
+      <edge id="1090" source="We'jitu" target="Nikani" weight="10" />
+      <edge id="1091" source="We'jitu" target="Pekitaulet" weight="16" />
+      <edge id="1092" source="We'jitu" target="Peminuit" weight="16" />
+      <edge id="1093" source="Harald Sigurdsson" target="Sten Sigurdsson" weight="12" />
+      <edge id="1094" source="Nikani" target="Pekitaulet" weight="8" />
+      <edge id="1095" source="Nikani" target="Peminuit" weight="16" />
+      <edge id="1096" source="Pekitaulet" target="Peminuit" weight="16" />
+      <edge id="1097" source="Charles" target="Lupus" weight="1" />
+      <edge id="1098" source="Charles" target="Siegfried" weight="1" />
+      <edge id="1099" source="Kalf" target="Einar" weight="2" />
+      <edge id="1100" source="Kalf" target="Siegfried" weight="1" />
+      <edge id="1101" source="Erik Marteinn" target="Elisef" weight="2" />
+      <edge id="1102" source="Erik Marteinn" target="Kauko" weight="2" />
+      <edge id="1103" source="Edmund" target="Eadric" weight="1" />
+    </edges>
+  </graph>
+</gexf>
